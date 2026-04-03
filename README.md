@@ -4,7 +4,7 @@ This repository tracks my progress through the Microsoft Learn Threat Modeling F
 
 I am documenting everything module by module to build a strong understanding of how to design secure systems.
 
-## 📁 Repository Structure
+## Repository Structure
 
 00_Course_Overview/  
 01_Threat_Modeling_Fundamentals/  
@@ -13,7 +13,7 @@ I am documenting everything module by module to build a strong understanding of 
 04_Mitigation_And_Defense/  
 05_Tools_And_Practice/  
 
-## 📚 Learning Approach
+## Learning Approach
 
 - I write everything in my own words
 - Keep notes simple and practical
@@ -23,6 +23,10 @@ Each module contains:
 - summary.md → what I understood
 - notes.md → key takeaways
 
-## 🎯 Objective
+## Objective
 
 To become confident in identifying threats, analyzing risks, and applying security improvements in real-world scenarios.
+
+## 📜 Certificate
+
+- Threat Modeling Fundamentals (Microsoft Learn)
