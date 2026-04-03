@@ -4,7 +4,7 @@ This repository documents my hands-on learning journey through the Microsoft Lea
 
 I am using this space to organize everything I learn in a structured way so I can revise, apply, and showcase my understanding of threat modeling in cybersecurity.
 
-## 📌 What I’m Learning
+## What I’m Learning
 
 In this course, I’m focusing on how to identify, analyze, and reduce security risks before they become real problems.
 
@@ -14,7 +14,7 @@ I’m learning how to:
 - Identify possible threats
 - Apply fixes and validate them
 
-## 📁 Structure I’m Following
+## Structure I’m Following
 
 Each topic is organized like this:
 
@@ -24,7 +24,7 @@ Inside every module:
 - summary.md → My personal understanding
 - notes.md → Key bullet points
 
-## 🎯 Goal
+## Goal
 
 My goal is to build a strong foundation in threat modeling so I can apply it in real-world systems and cybersecurity roles.
 
